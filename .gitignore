@@ -1,0 +1,5 @@
+.Rhistory
+*.dat
+*.docx
+results/
+
