@@ -1,3 +1,4 @@
-# config.yml
-
-# some default configuration information
+defualt:
+  input: data.csv
+  output: results.csv
+  n: 10
